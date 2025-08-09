@@ -1,0 +1,20 @@
+
+
+button {
+  border-radius: 25px;
+  background-color: rgb(94, 22, 161);
+  color: #fff;
+  border: none;
+  padding: 10px 30px;
+}
+.card{
+    width: 35rem;
+    min-height: 400px;
+    margin-top: 90px;
+    color: purple;
+}
+.Image{
+      height: 30px;
+    width: 150px;
+    color: purple;
+}
